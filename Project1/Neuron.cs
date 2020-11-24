@@ -1,0 +1,9 @@
+﻿
+
+namespace NeuroNetwork
+{
+    class Neuron
+    {
+
+    }
+}
